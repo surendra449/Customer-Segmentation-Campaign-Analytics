@@ -1,4 +1,4 @@
-# Customer Segmentation & Campaign-Analytics for a leading Pizza chain in USA
+# Market Segmentation & Campaign-Analytics for a leading Pizza chain in USA
 
 ## Objective 1
 
